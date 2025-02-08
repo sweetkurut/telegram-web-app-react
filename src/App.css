@@ -13,3 +13,7 @@ body {
   font-family: Montserrat Alternates;
   color: var(--tg-theme-text-color);
 }
+
+h1 {
+  text-align: center;
+}
